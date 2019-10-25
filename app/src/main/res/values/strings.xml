@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BorgerKing</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="enter_order_amount">Enter order amount</string>
+    <string name="view_cart">View Cart</string>
+    <string name="total_amount_due">Total Amount Due</string>
+    <string name="your_orders">Your Orders:</string>
+</resources>
